@@ -36,4 +36,3 @@ function getRandomHexColor() {
         });
 
         document.querySelector('[data-destroy]').addEventListener('click', destroyBoxes);
-    </script>
